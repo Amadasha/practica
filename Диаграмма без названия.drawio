@@ -1,0 +1,54 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0" version="24.7.16">
+  <diagram name="Страница — 1" id="lydYl8__pz82PVFiQCTj">
+    <mxGraphModel dx="1786" dy="851" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="7vWh04orpMvcnBC46ZC0-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-61" y="78" width="481" height="402" as="geometry" />
+        </mxCell>
+        <mxCell id="7vWh04orpMvcnBC46ZC0-11" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="7vWh04orpMvcnBC46ZC0-2" target="7vWh04orpMvcnBC46ZC0-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7vWh04orpMvcnBC46ZC0-12" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="7vWh04orpMvcnBC46ZC0-2" target="7vWh04orpMvcnBC46ZC0-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7vWh04orpMvcnBC46ZC0-13" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="7vWh04orpMvcnBC46ZC0-19" target="7vWh04orpMvcnBC46ZC0-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7vWh04orpMvcnBC46ZC0-14" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="7vWh04orpMvcnBC46ZC0-19" target="7vWh04orpMvcnBC46ZC0-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7vWh04orpMvcnBC46ZC0-21" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="7vWh04orpMvcnBC46ZC0-2" target="7vWh04orpMvcnBC46ZC0-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7vWh04orpMvcnBC46ZC0-2" value="Бухгалтер" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-111" y="220" width="50" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="7vWh04orpMvcnBC46ZC0-16" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;dashed=1;" edge="1" parent="1" source="7vWh04orpMvcnBC46ZC0-4" target="7vWh04orpMvcnBC46ZC0-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7vWh04orpMvcnBC46ZC0-17" value="&quot;includ&quot;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="7vWh04orpMvcnBC46ZC0-16">
+          <mxGeometry x="-0.1578" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7vWh04orpMvcnBC46ZC0-4" value="Ведение отчетности об остатках" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="240" y="200" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7vWh04orpMvcnBC46ZC0-7" value="Ввод данных о продаже" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="240" y="290" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7vWh04orpMvcnBC46ZC0-8" value="Ввод данных о поступлении" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="180" y="380" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7vWh04orpMvcnBC46ZC0-15" value="Формирование отчета" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="110" y="90" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7vWh04orpMvcnBC46ZC0-19" value="Работа со справочниками" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="10" y="270" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
